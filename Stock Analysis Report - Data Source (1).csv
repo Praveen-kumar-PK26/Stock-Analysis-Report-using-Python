@@ -1,0 +1,390 @@
+PID,Product Name,Product Age,Category,Sub Category,Total Qty,Avg Inventory Value,0 - 7 Days Count,8 - 15 Days Count,16 - 30 Days Count,31 - 45 Days Count,46 - 60 Days Count,61 - 90 Days Count,91 - 120 Days Count,121 - 150 Days Count,151 - 180 Days Count,Older Than 180 Days Count,0 - 7 Days Avg,8 - 15 Days Avg,16 - 30 Days Avg,31 - 45 Days Avg,46 - 60 Days Avg,61 - 90 Days Avg,91 - 120 Days Avg,121 - 150 Days Avg,151 - 180 Days Avg,Older Than 180 Days Avg,Current PO Price
+16,Ashes Cricket - PS4,Pre Owned,PS4,Games,10,490,2,0,5,1,2,0,0,0,0,0,550,0,450,550,500,0,0,0,0,0,799
+17,Assassin's Creed IV Black Flag - PS4,Pre Owned,PS4,Games,1,400,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,849
+19,Assassin's Creed Odyssey - PS4,Pre Owned,PS4,Games,5,480,4,1,0,0,0,0,0,0,0,0,475,500,0,0,0,0,0,0,0,0,849
+20,Assassin's Creed Origins - PS4,Pre Owned,PS4,Games,11,377.27,3,7,1,0,0,0,0,0,0,0,350,379,450,0,0,0,0,0,0,0,749
+21,Assassin's Creed Syndicate - PS4,Pre Owned,PS4,Games,1,300,1,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,599
+22,Assassin's Creed Unity - PS4,Pre Owned,PS4,Games,1,350,1,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,0,799
+25,Batman: Arkham Collection - PS4,Pre Owned,PS4,Games,1,700,0,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,"1,399"
+26,Batman Arkham Knight - PS4,Pre Owned,PS4,Games,5,560,5,0,0,0,0,0,0,0,0,0,560,0,0,0,0,0,0,0,0,0,899
+28,Battlefield 1 - PS4,Pre Owned,PS4,Games,6,333.33,4,1,1,0,0,0,0,0,0,0,325,400,300,0,0,0,0,0,0,0,599
+29,Battlefield 4 - PS4,Pre Owned,PS4,Games,2,325,1,0,1,0,0,0,0,0,0,0,400,0,250,0,0,0,0,0,0,0,749
+32,Call Of Duty Advanced Warfare - PS4,Pre Owned,PS4,Games,1,600,0,1,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,0,"1,099"
+33,Call of Duty Black Ops 4 - PS4,Pre Owned,PS4,Games,3,600,1,1,0,1,0,0,0,0,0,0,550,550,0,700,0,0,0,0,0,0,"1,049"
+34,Call of Duty Black Ops Cold War - PS4,Pre Owned,PS4,Games,10,1643.33,2,2,5,1,0,0,0,0,0,0,"1,600","1,667","1,680","1,500",0,0,0,0,0,0,"2,399"
+35,Call of Duty Black Ops III - PS4,Pre Owned,PS4,Games,5,630,5,0,0,0,0,0,0,0,0,0,630,0,0,0,0,0,0,0,0,0,"1,049"
+37,Call of Duty Infinite Warfare - PS4,Pre Owned,PS4,Games,2,550,2,0,0,0,0,0,0,0,0,0,550,0,0,0,0,0,0,0,0,0,849
+38,Call Of Duty Modern Warfare - PS4,Pre Owned,PS4,Games,10,1660,5,5,0,0,0,0,0,0,0,0,"1,640","1,680",0,0,0,0,0,0,0,0,"2,499"
+39,Call of Duty Modern Warfare Remastered - PS4,Pre Owned,PS4,Games,1,1450,1,0,0,0,0,0,0,0,0,0,"1,450",0,0,0,0,0,0,0,0,0,"1,999"
+40,Call Of Duty WWII - PS4,Pre Owned,PS4,Games,7,707.14,4,3,0,0,0,0,0,0,0,0,650,783,0,0,0,0,0,0,0,0,"1,099"
+45,Cricket 19 International Edition - PS4,Pre Owned,PS4,Games,6,988.89,3,3,0,0,0,0,0,0,0,0,"1,011",967,0,0,0,0,0,0,0,0,"1,499"
+46,Cyberpunk 2077 - PS4,Pre Owned,PS4,Games,8,1025,2,4,2,0,0,0,0,0,0,0,"1,100","1,000","1,000",0,0,0,0,0,0,0,"1,699"
+47,Days Gone - PS4,Pre Owned,PS4,Games,14,595.24,8,6,0,0,0,0,0,0,0,0,598,592,0,0,0,0,0,0,0,0,"1,049"
+48,Death Stranding - PS4,Pre Owned,PS4,Games,4,275,3,1,0,0,0,0,0,0,0,0,283,250,0,0,0,0,0,0,0,0,649
+49,Detroit Become Human - PS4,Pre Owned,PS4,Games,2,350,2,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,0,649
+56,Doom Eternal - PS4,Pre Owned,PS4,Games,1,600,0,1,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,0,"1,099"
+59,Dragon Ball Xenoverse - PS4,Pre Owned,PS4,Games,1,150,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,449
+60,Dragon Ball Z Kakarot - PS4,Pre Owned,PS4,Games,1,800,0,1,0,0,0,0,0,0,0,0,0,800,0,0,0,0,0,0,0,0,"1,399"
+61,Dreams - PS4,Pre Owned,PS4,Games,1,600,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,0,0,799
+62,Driveclub - PS4,Pre Owned,PS4,Games,3,266.67,3,0,0,0,0,0,0,0,0,0,267,0,0,0,0,0,0,0,0,0,599
+68,Far Cry 4 - PS4,Pre Owned,PS4,Games,3,283.33,3,0,0,0,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0,599
+69,Far Cry 5 - PS4,Pre Owned,PS4,Games,7,535.71,6,1,0,0,0,0,0,0,0,0,525,600,0,0,0,0,0,0,0,0,899
+75,FIFA 20 - PS4,Pre Owned,PS4,Games,3,383.33,3,0,0,0,0,0,0,0,0,0,383,0,0,0,0,0,0,0,0,0,699
+76,FIFA 21 - PS4,Pre Owned,PS4,Games,9,666.67,1,5,3,0,0,0,0,0,0,0,750,660,650,0,0,0,0,0,0,0,"1,149"
+78,Final Fantasy XV - PS4,Pre Owned,PS4,Games,1,350,0,0,1,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,749
+79,Ghost Of Tsushima - PS4,New,PS4,Games,2,1041,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"1,041",0,0,0,0,"1,699"
+79,Ghost Of Tsushima - PS4,Pre Owned,PS4,Games,1,850,1,0,0,0,0,0,0,0,0,0,850,0,0,0,0,0,0,0,0,0,"1,499"
+82,God Of War 3 Remastered - PS4,Pre Owned,PS4,Games,13,461.54,9,3,1,0,0,0,0,0,0,0,472,450,400,0,0,0,0,0,0,0,799
+83,God Of War - PS4,Pre Owned,PS4,Games,13,406.41,13,0,0,0,0,0,0,0,0,0,406,0,0,0,0,0,0,0,0,0,749
+84,Gran Turismo Sport - PS4,Pre Owned,PS4,Games,9,216.67,5,4,0,0,0,0,0,0,0,0,230,200,0,0,0,0,0,0,0,0,449
+87,Grand Theft Auto V - PS4,Pre Owned,PS4,Games,18,797.22,10,8,0,0,0,0,0,0,0,0,785,813,0,0,0,0,0,0,0,0,"1,299"
+89,Hitman 2 - PS4,Pre Owned,PS4,Games,1,850,1,0,0,0,0,0,0,0,0,0,850,0,0,0,0,0,0,0,0,0,"1,299"
+92,Horizon Zero Dawn Complete Edition - PS4,Pre Owned,PS4,Games,25,238,9,13,3,0,0,0,0,0,0,0,222,238,283,0,0,0,0,0,0,0,499
+93,Horizon Zero Dawn - PS4,Pre Owned,PS4,Games,12,208.33,3,6,3,0,0,0,0,0,0,0,250,217,150,0,0,0,0,0,0,0,499
+94,Infamous Second Son - PS4,Pre Owned,PS4,Games,7,285.71,2,1,4,0,0,0,0,0,0,0,350,250,263,0,0,0,0,0,0,0,599
+100,Just Cause 4 - PS4,Pre Owned,PS4,Games,1,400,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,749
+104,Mafia Trilogy - PS4,Pre Owned,PS4,Games,4,1375,1,3,0,0,0,0,0,0,0,0,"1,300","1,400",0,0,0,0,0,0,0,0,"1,799"
+105,Marvel's Avengers - PS4,Pre Owned,PS4,Games,4,650,3,1,0,0,0,0,0,0,0,0,667,600,0,0,0,0,0,0,0,0,"1,099"
+106,Marvel's Spider-Man Miles Morales - PS4,Pre Owned,PS4,Games,13,1123.08,8,4,1,0,0,0,0,0,0,0,"1,075","1,175","1,300",0,0,0,0,0,0,0,"1,699"
+107,Marvel's Spiderman - PS4,Pre Owned,PS4,Games,1,550,1,0,0,0,0,0,0,0,0,0,550,0,0,0,0,0,0,0,0,0,"1,099"
+110,Middle Earth Shadow Of War - PS4,Pre Owned,PS4,Games,1,200,1,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,449
+113,Mortal Kombat 11 - PS4,New,PS4,Games,1,1229,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,229",0,0,0,0,0,"1,599"
+113,Mortal Kombat 11 - PS4,Pre Owned,PS4,Games,2,900,2,0,0,0,0,0,0,0,0,0,900,0,0,0,0,0,0,0,0,0,"1,399"
+114,Mortal Kombat X - PS4,Pre Owned,PS4,Games,1,350,0,1,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,749
+117,NBA 2K21 - PS4,Pre Owned,PS4,Games,1,700,0,0,0,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,"1,299"
+120,NFS Heat - PS4,New,PS4,Games,3,1311,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"1,311",0,0,0,0,0,"1,449"
+120,NFS Heat - PS4,Pre Owned,PS4,Games,4,825,2,1,1,0,0,0,0,0,0,0,800,800,900,0,0,0,0,0,0,0,"1,399"
+123,Player Unknown's Battleground - PS4,Pre Owned,PS4,Games,4,325,2,2,0,0,0,0,0,0,0,0,350,300,0,0,0,0,0,0,0,0,799
+129,Ratchet & Clank - PS4,Pre Owned,PS4,Games,21,73.81,5,0,9,6,1,0,0,0,0,0,90,0,67,75,50,0,0,0,0,0,349
+130,Red Dead Redemption 2 - PS4,Pre Owned,PS4,Games,2,1075,2,0,0,0,0,0,0,0,0,0,"1,075",0,0,0,0,0,0,0,0,0,"1,699"
+133,Resident Evil 7 Biohazard - PS4,Pre Owned,PS4,Games,7,628.57,2,2,3,0,0,0,0,0,0,0,650,600,633,0,0,0,0,0,0,0,999
+134,Rise Of The Tomb Raider 20 Year Celebration Edition - PS4,Pre Owned,PS4,Games,1,400,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,849
+136,Sekiro Shadows Die Twice - PS4,Pre Owned,PS4,Games,2,2475,2,0,0,0,0,0,0,0,0,0,"2,475",0,0,0,0,0,0,0,0,0,"3,499"
+138,Sleeping Dogs Definitive Edition - PS4,Pre Owned,PS4,Games,3,450,3,0,0,0,0,0,0,0,0,0,450,0,0,0,0,0,0,0,0,0,899
+139,Sniper Elite 3 - PS4,Pre Owned,PS4,Games,1,500,0,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,999
+142,Star Wars Jedi Fallen Order - PS4,Pre Owned,PS4,Games,1,600,1,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,0,0,"1,199"
+145,Tekken 7 - PS4,Pre Owned,PS4,Games,1,650,1,0,0,0,0,0,0,0,0,0,650,0,0,0,0,0,0,0,0,0,"1,099"
+146,The Crew 2 - PS4,Pre Owned,PS4,Games,2,700,1,1,0,0,0,0,0,0,0,0,700,700,0,0,0,0,0,0,0,0,"1,099"
+147,Assassins Creed Valhalla - PS4,Pre Owned,PS4,Games,10,960,3,5,2,0,0,0,0,0,0,0,950,930,"1,050",0,0,0,0,0,0,0,"1,499"
+151,The Last Of Us Remastered - PS4,Pre Owned,PS4,Games,12,461.11,6,6,0,0,0,0,0,0,0,0,472,450,0,0,0,0,0,0,0,0,899
+155,The Witcher 3 Wild Hunt - PS4,Pre Owned,PS4,Games,4,700,2,1,1,0,0,0,0,0,0,0,750,700,600,0,0,0,0,0,0,0,"1,199"
+160,Tom Clancys Ghost Recon Wildlands - PS4,Pre Owned,PS4,Games,8,500,2,3,3,0,0,0,0,0,0,0,500,483,517,0,0,0,0,0,0,0,749
+163,Tomb Raider Definitive Edition - PS4,Pre Owned,PS4,Games,3,416.67,1,2,0,0,0,0,0,0,0,0,500,375,0,0,0,0,0,0,0,0,799
+167,Uncharted 4 A Thiefs End - PS4,Pre Owned,PS4,Games,22,463.64,8,14,0,0,0,0,0,0,0,0,463,464,0,0,0,0,0,0,0,0,699
+168,Uncharted The Lost Legacy - PS4,Pre Owned,PS4,Games,12,533.33,2,5,5,0,0,0,0,0,0,0,450,550,550,0,0,0,0,0,0,0,799
+169,Uncharted The Nathan Drake Collection - PS4,Pre Owned,PS4,Games,1,400,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,849
+171,Watch Dogs 2 - PS4,Pre Owned,PS4,Games,3,283.33,3,0,0,0,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0,599
+173,Watch Dogs Legion - PS4,Pre Owned,PS4,Games,5,510,1,2,2,0,0,0,0,0,0,0,550,450,550,0,0,0,0,0,0,0,849
+174,Watch Dogs - PS4,Pre Owned,PS4,Games,2,200,0,2,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,499
+179,WWE 2K Battlegrounds - PS4,Pre Owned,PS4,Games,3,216.67,0,0,2,0,0,0,1,0,0,0,0,0,225,0,0,0,200,0,0,0,499
+183,WWE 2K19 - PS4,Pre Owned,PS4,Games,1,850,0,1,0,0,0,0,0,0,0,0,0,850,0,0,0,0,0,0,0,0,"1,399"
+184,WWE 2K20 - PS4,Pre Owned,PS4,Games,4,920.83,4,0,0,0,0,0,0,0,0,0,921,0,0,0,0,0,0,0,0,0,"1,399"
+194,Immortals Fenyx Rising - PS4,Pre Owned,PS4,Games,2,550,2,0,0,0,0,0,0,0,0,0,550,0,0,0,0,0,0,0,0,0,999
+195,Anthem - PS4,Pre Owned,PS4,Games,1,200,0,1,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,449
+197,Assassins Creed III Remastered - PS4,Pre Owned,PS4,Games,1,600,0,1,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,0,999
+198,Assassins Creed Rogue Remastered - PS4,Pre Owned,PS4,Games,1,500,0,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,749
+204,Big Bash Boom - PS4,Pre Owned,PS4,Games,1,50,1,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,299
+223,1-2 Switch - Nintendo Switch,Pre Owned,Nintendo Switch,Games,2,1800,0,0,1,1,0,0,0,0,0,0,0,0,"2,000","1,600",0,0,0,0,0,0,"2,799"
+226,ARMS - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1500,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,500",0,0,0,0,0,"2,799"
+251,F1 2016 - PS4,Pre Owned,PS4,Games,1,250,0,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,499
+259,For Honor - PS4,Pre Owned,PS4,Games,1,150,0,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,399
+261,Hellblade Senuas Sacrifice - PS4,Pre Owned,PS4,Games,3,1066.67,1,1,1,0,0,0,0,0,0,0,"1,100","1,100","1,000",0,0,0,0,0,0,0,"1,699"
+262,Homefront The Revolution - PS4,Pre Owned,PS4,Games,2,250,1,0,1,0,0,0,0,0,0,0,250,0,250,0,0,0,0,0,0,0,499
+281,Madden NFL 19 - PS4,Pre Owned,PS4,Games,1,300,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,300,0,0,899
+286,Metro Exodus - PS4,Pre Owned,PS4,Games,3,711.11,0,1,2,0,0,0,0,0,0,0,0,700,717,0,0,0,0,0,0,0,"1,199"
+303,Persona 5 - PS4,Pre Owned,PS4,Games,1,400,0,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,699
+305,Project Cars 2 - PS4,Pre Owned,PS4,Games,1,150,0,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,549
+310,Resident Evil 6 - PS4,Pre Owned,PS4,Games,1,500,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,999
+322,South Park The Fractured But Whole - PS4,Pre Owned,PS4,Games,1,150,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,399
+326,Tennis World Tour - PS4,Pre Owned,PS4,Games,1,800,1,0,0,0,0,0,0,0,0,0,800,0,0,0,0,0,0,0,0,0,"1,499"
+329,The Evil Within 2 - PS4,Pre Owned,PS4,Games,1,350,1,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,0,799
+334,The Sims 4 - PS4,Pre Owned,PS4,Games,3,800,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,800,699
+335,Tom Clancys The Division - PS4,Pre Owned,PS4,Games,1,150,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,449
+349,Darksiders Genesis - Nintendo Switch,Pre Owned,Nintendo Switch,Games,6,1883.33,0,0,0,1,0,0,0,2,2,1,0,0,0,"1,300",0,0,0,"2,000","2,000","2,000","2,099"
+364,Fire Emblem Three Houses - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,2100,0,0,1,0,0,0,0,0,0,0,0,0,"2,100",0,0,0,0,0,0,0,"3,399"
+369,Immortals Fenyx Rising - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1100,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,100",0,0,0,0,"1,999"
+374,Lego DC Super Villains - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,900,0,0,0,0,1,0,0,0,0,0,0,0,0,0,900,0,0,0,0,0,"1,999"
+380,Lego Worlds - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,700,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,0,"1,299"
+385,Mario Tennis Aces - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,2250,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,250",0,"2,999"
+386,Marvel Ultimate Alliance 3 The Black Order - Nintendo Switch,Pre Owned,Nintendo Switch,Games,2,2100,0,0,1,0,1,0,0,0,0,0,0,0,"2,100",0,"2,100",0,0,0,0,0,"3,199"
+398,Assassin's Creed IV Black Flag - Xbox One,Pre Owned,Xbox One,Games,1,250,0,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,699
+403,Assassin's Creed Unity - Xbox One,Pre Owned,Xbox One,Games,2,325,2,0,0,0,0,0,0,0,0,0,325,0,0,0,0,0,0,0,0,0,749
+407,Batman Arkham Knight - Xbox One,Pre Owned,Xbox One,Games,1,450,0,0,1,0,0,0,0,0,0,0,0,0,450,0,0,0,0,0,0,0,899
+410,Battlefield 4 - Xbox One,Pre Owned,Xbox One,Games,1,150,0,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,499
+413,Call Of Duty Advanced Warfare - Xbox One,Pre Owned,Xbox One,Games,1,200,0,1,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,699
+421,Call Of Duty WWII - Xbox One,Pre Owned,Xbox One,Games,2,650,1,1,0,0,0,0,0,0,0,0,700,600,0,0,0,0,0,0,0,0,"1,199"
+424,Control - Xbox One,Pre Owned,Xbox One,Games,5,960,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,960,999
+426,Cricket 19 International Edition - Xbox One,Pre Owned,Xbox One,Games,2,1150,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"1,150","1,499"
+427,Cyberpunk 2077 - Xbox One,Pre Owned,Xbox One,Games,1,750,1,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0,"1,299"
+431,Don Bradman Cricket 17 - Xbox One,Pre Owned,Xbox One,Games,1,500,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,500,0,0,0,799
+433,Doom Eternal - Xbox One,Pre Owned,Xbox One,Games,1,850,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,850,0,0,0,"1,199"
+434,Dragon Ball FighterZ - Xbox One,Pre Owned,Xbox One,Games,1,500,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,"1,099"
+442,Fallout 4 - Xbox One,Pre Owned,Xbox One,Games,1,200,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200,0,0,0,599
+444,Far Cry 5 - Xbox One,Pre Owned,Xbox One,Games,1,600,1,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,0,0,"1,099"
+452,FIFA 21 - Xbox One,Pre Owned,Xbox One,Games,1,500,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,899
+471,Middle Earth Shadow Of War - Xbox One,Pre Owned,Xbox One,Games,1,150,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,150,0,0,399
+472,Middle Earth Shadow Of Mordor - Xbox One,Pre Owned,Xbox One,Games,3,316.67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,317,499
+478,NBA 2K21 - Xbox One,Pre Owned,Xbox One,Games,3,950,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,600,0,0,0,"1,125","1,299"
+482,Player Unknown's Battleground - Xbox One,Pre Owned,Xbox One,Games,3,100,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,50,125,399
+485,Pro Evolution Soccer 2020 - Xbox One,Pre Owned,Xbox One,Games,1,250,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,699
+502,The Crew 2 - Xbox One,Pre Owned,Xbox One,Games,1,600,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,0,0,0,0,"1,199"
+509,Tom Clancys Ghost Recon Wildlands - Xbox One,Pre Owned,Xbox One,Games,1,550,0,0,1,0,0,0,0,0,0,0,0,0,550,0,0,0,0,0,0,0,999
+518,Watch Dogs Legion - Xbox One,Pre Owned,Xbox One,Games,1,500,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,"1,099"
+528,Yakuza Like a Dragon - Xbox One,Pre Owned,Xbox One,Games,1,700,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,899
+536,Overcooked 2 - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,000",0,0,0,0,0,"2,499"
+537,Paper Mario The Origami King - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1850,0,0,1,0,0,0,0,0,0,0,0,0,"1,850",0,0,0,0,0,0,0,"3,499"
+545,Resident Evil Revelations Collection - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1700,0,0,1,0,0,0,0,0,0,0,0,0,"1,700",0,0,0,0,0,0,0,"2,899"
+554,Sonic Mania Plus - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,950,0,0,1,0,0,0,0,0,0,0,0,0,950,0,0,0,0,0,0,0,"1,899"
+556,Splatoon 2 - Nintendo Switch,Pre Owned,Nintendo Switch,Games,7,1842.86,0,1,0,0,2,1,1,2,0,0,0,"1,800",0,0,"1,850","2,000","1,700","1,850",0,0,"2,499"
+561,Super Smash Bros Ultimate - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,2650,1,0,0,0,0,0,0,0,0,0,"2,650",0,0,0,0,0,0,0,0,0,"3,499"
+569,This Is The Police - Nintendo Switch,Pre Owned,Nintendo Switch,Games,2,1512.5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"1,513","1,099"
+582,Yu-Gi-Oh! Legacy of the Duelist - Nintendo Switch,New,Nintendo Switch,Games,1,1652,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,652","3,499"
+584,Anthem - Xbox One,New,Xbox One,Games,1,600,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,799
+597,Burnout Paradise Remastered - Xbox One,Pre Owned,Xbox One,Games,1,550,1,0,0,0,0,0,0,0,0,0,550,0,0,0,0,0,0,0,0,0,"1,049"
+601,Dark Souls III - Xbox One,Pre Owned,Xbox One,Games,1,400,0,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,999
+658,Overwatch - Xbox One,Pre Owned,Xbox One,Games,1,450,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,450,649
+695,Assassin's Creed Valhalla - PS5,Pre Owned,PS5,Games,5,1020,2,3,0,0,0,0,0,0,0,0,"1,050","1,000",0,0,0,0,0,0,0,0,"1,499"
+700,Just Dance 2021 - PS5,New,PS5,Games,2,1770,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"1,770",999
+700,Just Dance 2021 - PS5,Pre Owned,PS5,Games,1,300,0,0,1,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,699
+701,Marvel's Spider-Man: Miles Morales - PS5,Pre Owned,PS5,Games,12,1225,6,6,0,0,0,0,0,0,0,0,"1,183","1,267",0,0,0,0,0,0,0,0,"1,999"
+703,Sackboy: A Big Adventure - PS5,Pre Owned,PS5,Games,2,975,0,0,1,1,0,0,0,0,0,0,0,0,850,"1,100",0,0,0,0,0,0,"1,099"
+704,Watch Dogs Legion - PS5,Pre Owned,PS5,Games,5,800,2,3,0,0,0,0,0,0,0,0,800,800,0,0,0,0,0,0,0,0,"1,099"
+705,Call Of Duty: Black Ops Cold War - PS5,Pre Owned,PS5,Games,5,2050,1,2,2,0,0,0,0,0,0,0,"2,050","2,050","2,050",0,0,0,0,0,0,0,"3,199"
+713,Crackdown 3 - Xbox One,Pre Owned,Xbox One,Games,1,250,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,250,399
+722,Gears 5 - Xbox One,Pre Owned,Xbox One,Games,1,607.14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,607,0,0,0,0,0,"1,199"
+723,Gears Tactics - Xbox One,New,Xbox One,Games,2,944,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,944,899
+723,Gears Tactics - Xbox One,Pre Owned,Xbox One,Games,6,783.33,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,783,499
+725,Halo 5: Guardians - Xbox One,Pre Owned,Xbox One,Games,2,300,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,300,300,0,0,0,799
+754,Minecraft - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1350,0,0,1,0,0,0,0,0,0,0,0,0,"1,350",0,0,0,0,0,0,0,"2,299"
+755,Dragon Ball FighterZ - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,950,0,0,0,0,1,0,0,0,0,0,0,0,0,0,950,0,0,0,0,0,"2,199"
+759,Collection of Mana - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1083.33,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,083",0,0,0,0,0,0,"2,099"
+777,Broken Sword 5 The Serpents Curse - PS4,Pre Owned,PS4,Games,1,600,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,699
+789,Diablo 3 Reaper of Souls - Ultimate Evil Edition - PS4,Pre Owned,PS4,Games,2,450,0,0,0,1,1,0,0,0,0,0,0,0,0,500,400,0,0,0,0,0,999
+797,Evolve - PS4,Pre Owned,PS4,Games,1,100,0,0,1,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,399
+809,God Eater 2 Rage Burst - PS4,New,PS4,Games,1,800,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,800,"1,699"
+809,God Eater 2 Rage Burst - PS4,Pre Owned,PS4,Games,3,816.67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,817,799
+814,Indivisible - PS4,Pre Owned,PS4,Games,3,819.44,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,819,599
+818,Just Dance 2019 - PS4,Pre Owned,PS4,Games,2,400,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,350,0,450,0,599
+821,Kingdom Hearts 3 - PS4,Pre Owned,PS4,Games,2,375,0,0,1,0,0,0,0,0,0,1,0,0,350,0,0,0,0,0,0,400,699
+835,NASCAR Heat Evolution - PS4,Pre Owned,PS4,Games,1,300,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,300,699
+845,Persona 5 Dancing in Starlight - PS4,Pre Owned,PS4,Games,1,350,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,350,0,0,0,999
+854,Shadow Warrior - PS4,Pre Owned,PS4,Games,1,450,0,0,0,0,1,0,0,0,0,0,0,0,0,0,450,0,0,0,0,0,799
+861,Star Trek Bridge Crew - PS4,Pre Owned,PS4,Games,1,400,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,400,549
+868,The Golf Club Collectors Edition - PS4,Pre Owned,PS4,Games,1,600,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,0,0,0,899
+873,Thief - PS4,Pre Owned,PS4,Games,1,150,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,449
+881,World Of Final Fantasy - PS4,New,PS4,Games,1,295,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,295,999
+925,Quantum Break - Xbox One,Pre Owned,Xbox One,Games,1,250,0,0,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,599
+928,Rise of the Tomb Raider - Xbox One,Pre Owned,Xbox One,Games,1,700,0,0,0,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,"1,299"
+930,Ryse: Son of Rome - Xbox One,Pre Owned,Xbox One,Games,1,250,0,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,799
+935,State of Decay 2 - Xbox One,Pre Owned,Xbox One,Games,1,150,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,150,499
+950,Official Sony DualShock 4 Controller for PS4 (V1) Jet Black - PS4,Pre Owned,PS4,Accessories,8,1633.34,8,0,0,0,0,0,0,0,0,0,"1,633",0,0,0,0,0,0,0,0,0,"2,699"
+953,Official Sony DualShock 4 Controller for PS4 (V1) Wave Blue - PS4,Pre Owned,PS4,Accessories,2,1508.34,1,1,0,0,0,0,0,0,0,0,"1,517","1,500",0,0,0,0,0,0,0,0,"2,799"
+956,Official Sony DualShock 4 Controller for PS4 (V1) Silver - PS4,Pre Owned,PS4,Accessories,1,1516.67,1,0,0,0,0,0,0,0,0,0,"1,517",0,0,0,0,0,0,0,0,0,"2,799"
+959,Official Sony DualShock 4 Controller for PS4 (V2) Jet Black - PS4,Pre Owned,PS4,Accessories,21,1740.48,2,17,2,0,0,0,0,0,0,0,"1,750","1,750","1,650",0,0,0,0,0,0,0,"2,899"
+965,Official Sony DualShock 4 Controller for PS4 (V2) Green Camouflage - PS4,Pre Owned,PS4,Accessories,8,1925,1,2,2,3,0,0,0,0,0,0,"1,800","1,800","2,000","2,000",0,0,0,0,0,0,"3,099"
+987,Sony PlayStation 5 Standard Edition 825 GB - PS5,New,PS5,Consoles,9,49491,0,9,0,0,0,0,0,0,0,0,0,"49,491",0,0,0,0,0,0,0,0,"54,990"
+987,Sony PlayStation 5 Standard Edition 825 GB - PS5,Pre Owned,PS5,Consoles,11,31154.55,1,3,6,1,0,0,0,0,0,0,"29,000","30,500","31,533","33,000",0,0,0,0,0,0,"39,999"
+989,Sony PlayStation 4 Pro 1 TB Black - PS4,Pre Owned,PS4,Consoles,6,16116.67,1,5,0,0,0,0,0,0,0,0,"15,000","16,340",0,0,0,0,0,0,0,0,"26,499"
+992,Sony PlayStation 4 Pro 1 TB White - PS4,Pre Owned,PS4,Consoles,1,18000,0,0,0,1,0,0,0,0,0,0,0,0,0,"18,000",0,0,0,0,0,0,"27,499"
+995,Sony PlayStation 4 Pro 1 TB God of War Silver - PS4,Pre Owned,PS4,Consoles,1,22000,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"22,000",0,0,0,"28,499"
+1001,Sony PlayStation 4 Slim 1 TB  Jet Black - PS4,Pre Owned,PS4,Consoles,14,12500,2,4,8,0,0,0,0,0,0,0,"12,000","12,100","12,825",0,0,0,0,0,0,0,"19,999"
+1009,Sony PlayStation 4 Slim 500 GB Jet Black - PS4,Pre Owned,PS4,Consoles,9,11611.11,1,0,5,3,0,0,0,0,0,0,"11,000",0,"12,000","11,167",0,0,0,0,0,0,"19,499"
+1019,Sony PlayStation 4 Standard 500GB Jet Black - PS4,Pre Owned,PS4,Consoles,3,9766.67,2,1,0,0,0,0,0,0,0,0,"9,800","9,700",0,0,0,0,0,0,0,0,"17,999"
+1027,Sony PlayStation 4 Standard 500GB Metal Gear Solid V The Phantom Pain Limited Edition - PS4,Pre Owned,PS4,Consoles,1,12000,0,0,1,0,0,0,0,0,0,0,0,0,"12,000",0,0,0,0,0,0,0,"20,499"
+1028,Nintendo Switch 32GB V1 (HAC-001) Neon Red & Blue Joy-Con - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,5,12380,0,0,4,1,0,0,0,0,0,0,0,0,"12,425","12,200",0,0,0,0,0,0,"17,999"
+1029,Nintendo Switch 32GB V1 (HAC-001) Grey Joy-Con - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,1,13500,1,0,0,0,0,0,0,0,0,0,"13,500",0,0,0,0,0,0,0,0,0,"17,999"
+1033,Nintendo Switch 32GB V1 (HAC-001) Smash Bros Smash Grey Joy Con - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,1,10800,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"10,800",0,0,0,0,"18,999"
+1035,Nintendo Switch 32GB V2 (HAC-001-01) Neon Red & Blue Joy-Con - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,1,12000,0,1,0,0,0,0,0,0,0,0,0,"12,000",0,0,0,0,0,0,0,0,"19,499"
+1041,Nintendo Switch Lite Turquoise - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,1,8500,0,0,1,0,0,0,0,0,0,0,0,0,"8,500",0,0,0,0,0,0,0,"11,999"
+1042,Nintendo Switch Lite Yellow - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,4,8500,1,0,2,0,1,0,0,0,0,0,"8,500",0,"8,000",0,"9,500",0,0,0,0,0,"12,499"
+1043,Nintendo Switch Lite Zacian and Zamazenta Grey - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,2,11750,0,0,0,1,1,0,0,0,0,0,0,0,0,"12,500","11,000",0,0,0,0,0,"13,499"
+1044,Microsoft Xbox One 1TB Black - Xbox One,Pre Owned,Xbox One,Consoles,1,8000,0,1,0,0,0,0,0,0,0,0,0,"8,000",0,0,0,0,0,0,0,0,"13,999"
+1049,Microsoft Xbox One 500GB Black - Xbox One,Pre Owned,Xbox One,Consoles,1,5000,0,0,1,0,0,0,0,0,0,0,0,0,"5,000",0,0,0,0,0,0,0,"12,499"
+1051,Microsoft Xbox One S 1TB White - Xbox One,Pre Owned,Xbox One,Consoles,5,9880,1,0,3,1,0,0,0,0,0,0,"10,000",0,"9,800","10,000",0,0,0,0,0,0,"15,999"
+1058,Microsoft Xbox One S 2TB Gears of War Red - Xbox One,Pre Owned,Xbox One,Consoles,1,13000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"13,000",0,"17,499"
+1059,Microsoft Xbox One S 500GB White - Xbox One,Pre Owned,Xbox One,Consoles,1,9100,0,0,1,0,0,0,0,0,0,0,0,0,"9,100",0,0,0,0,0,0,0,"14,499"
+1062,Microsoft Xbox One X 1TB Black - Xbox One,Pre Owned,Xbox One,Consoles,3,11833.33,0,0,1,1,0,1,0,0,0,0,0,0,"12,000","11,500",0,"12,000",0,0,0,0,"19,999"
+1063,Microsoft Xbox One X 1TB Cyberpunk 2077 Limited Edition - Xbox One,Pre Owned,Xbox One,Consoles,1,17000,0,0,0,1,0,0,0,0,0,0,0,0,0,"17,000",0,0,0,0,0,0,"26,999"
+1066,Microsoft Xbox One X 1TB Project Scorpio Edition - Xbox One,Pre Owned,Xbox One,Consoles,1,16000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"16,000",0,0,0,0,0,"20,999"
+1067,Microsoft Xbox One X 1TB White - Xbox One,Pre Owned,Xbox One,Consoles,1,13000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"13,000",0,0,0,0,"20,999"
+1068,Microsoft Xbox Series X 1 TB - Xbox Series X,Pre Owned,Xbox Series X,Consoles,5,25500,0,0,3,1,0,1,0,0,0,0,0,0,"28,000","24,500",0,"19,000",0,0,0,0,"38,999"
+1080,Nacon Revolution PRO Controller 2 - PS4,Pre Owned,PS4,Accessories,1,2300,0,0,1,0,0,0,0,0,0,0,0,0,"2,300",0,0,0,0,0,0,0,"4,299"
+1083,Sony Playstation Move Motion Controller V1 - PS4,Pre Owned,PS4,Accessories,2,600,1,0,0,0,0,0,1,0,0,0,700,0,0,0,0,0,500,0,0,0,"1,699"
+1084,Sony Playstation Move Motion Controller V2 (CECH-ZCM 2) - PS4,Pre Owned,PS4,Accessories,1,700,0,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,"1,999"
+1085,Razer Raiju Controller - PS4,Pre Owned,PS4,Accessories,1,4500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"4,500","5,299"
+1087,Logitech G29 Driving Force Racing Wheel + Pedals - PS4,Pre Owned,PS4,Accessories,1,11000,1,0,0,0,0,0,0,0,0,0,"11,000",0,0,0,0,0,0,0,0,0,"20,999"
+1089,Sony Playstation VR Headset V1 - PS4,Pre Owned,PS4,Accessories,2,7000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,"7,000",0,"7,000",0,0,"12,499"
+1090,Sony Playstation VR Headset V2 (CUH-ZVR2) - PS4,Pre Owned,PS4,Accessories,1,8000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"8,000",0,0,0,0,0,"12,999"
+1097,Sony Playstation 5 Official Dual Sense Controller White - PS5,Pre Owned,PS5,Accessories,1,2700,1,0,0,0,0,0,0,0,0,0,"2,700",0,0,0,0,0,0,0,0,0,"4,299"
+1156,Xbox Series Controller Carbon Black - Xbox Series X,Pre Owned,Xbox Series X,Accessories,5,2720,0,0,1,1,2,1,0,0,0,0,0,0,"2,600","2,600","2,600","3,200",0,0,0,0,"3,799"
+1157,Xbox Series Controller Shock Blue - Xbox Series X,Pre Owned,Xbox Series X,Accessories,4,3012.5,0,1,0,0,1,0,1,0,1,0,0,"2,300",0,0,"2,800",0,"3,450",0,"3,500",0,"3,899"
+1164,Xbox One Official Kinect 2 Sensor - Xbox One,Pre Owned,Xbox One,Accessories,9,1822.22,0,0,3,1,1,3,1,0,0,0,0,0,"1,867","1,800","1,800","1,800","1,800",0,0,0,"2,999"
+1167,Xbox One Official Stereo Headset Adapter - Xbox One,Pre Owned,Xbox One,Accessories,1,250,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,699
+1169,Xbox One S Official Vertical Stand - Xbox One,Pre Owned,Xbox One,Accessories,5,180,0,0,0,1,0,2,0,2,0,0,0,0,0,200,0,100,0,250,0,0,449
+1200,Call Of Duty Modern Warfare ALL Region (US) - PS4,Pre Owned,PS4,Games,2,1350,2,0,0,0,0,0,0,0,0,0,"1,350",0,0,0,0,0,0,0,0,0,"1,999"
+1201,Control Ultimate Edition - PS4,Pre Owned,PS4,Games,1,1500,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,500",0,0,0,0,0,0,"1,999"
+1209,Grand Theft Auto V Premium Edition - PS4,New,PS4,Games,2,1475,0,0,2,0,0,0,0,0,0,0,0,0,"1,475",0,0,0,0,0,0,0,"1,699"
+1214,Just Cause 4 Steelbook Edition - PS4,Pre Owned,PS4,Games,1,250,1,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,649
+1219,Nioh 2 Special Edition - PS4,Pre Owned,PS4,Games,1,550,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,550,0,0,0,0,749
+1224,Sniper Elite 3 Ultimate Edition - PS4,Pre Owned,PS4,Games,1,650,0,0,1,0,0,0,0,0,0,0,0,0,650,0,0,0,0,0,0,0,"1,199"
+1230,The Witcher 3 Wild Hunt Game of the Year Edition - PS4,Pre Owned,PS4,Games,5,850,3,1,1,0,0,0,0,0,0,0,867,800,850,0,0,0,0,0,0,0,"1,449"
+1236,Deathloop - PS5,Pre Owned,PS5,Games,3,500,1,0,1,1,0,0,0,0,0,0,500,0,500,500,0,0,0,0,0,0,899
+1245,Mass Effect Legendary Edition - Xbox One,Pre Owned,Xbox One,Games,1,2450,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,450","1,299"
+1249,Outriders - Xbox One,Pre Owned,Xbox One,Games,1,650,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,650,0,0,0,"1,299"
+1253,Resident Evil: Village - PS4,Pre Owned,PS4,Games,3,1366.67,1,0,2,0,0,0,0,0,0,0,"1,300",0,"1,400",0,0,0,0,0,0,0,"2,099"
+1255,Resident Evil: Village - PS5,Pre Owned,PS5,Games,1,1500,0,1,0,0,0,0,0,0,0,0,0,"1,500",0,0,0,0,0,0,0,0,"2,199"
+1260,Bloodborne Game Of The Year - PS4,Pre Owned,PS4,Games,4,525,1,3,0,0,0,0,0,0,0,0,500,533,0,0,0,0,0,0,0,0,999
+1265,Madden NFL 21 - PS4,Pre Owned,PS4,Games,5,1676.67,0,1,1,1,2,0,0,0,0,0,0,"1,500","1,700","1,733","1,725",0,0,0,0,0,"2,799"
+1266,Madden NFL 21 - Xbox One,Pre Owned,Xbox One,Games,8,1337.5,0,1,0,0,0,2,5,0,0,0,0,"1,300",0,0,0,"1,450","1,300",0,0,0,"2,499"
+1275,MediEvil - PS4,New,PS4,Games,1,820,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,820,"1,099"
+1275,MediEvil - PS4,Pre Owned,PS4,Games,2,425,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,450,0,0,0,400,699
+1288,Mafia Definitive Edition - PS4,Pre Owned,PS4,Games,2,600,1,1,0,0,0,0,0,0,0,0,550,650,0,0,0,0,0,0,0,0,999
+1290,Assassins Creed Chronicles - PS4,Pre Owned,PS4,Games,1,350,0,0,1,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,799
+1324,Call of Duty Infinite Warfare Legacy Edition - Xbox One,Pre Owned,Xbox One,Games,1,500,0,0,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,"1,299"
+1326,The Witcher 3 Wild Hunt Game of the Year - Xbox One,New,Xbox One,Games,2,826,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,826,"1,799"
+1326,The Witcher 3 Wild Hunt Game of the Year - Xbox One,Pre Owned,Xbox One,Games,1,1000,0,0,1,0,0,0,0,0,0,0,0,0,"1,000",0,0,0,0,0,0,0,"1,399"
+1340,Watch Dogs Complete Edition - PS4,Pre Owned,PS4,Games,1,350,0,1,0,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,749
+1354,Torment Tides Of Numenera - PS4,New,PS4,Games,1,590,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,590,"1,099"
+1358,DOOM VFR - PS4,Pre Owned,PS4,Games,3,666.67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,667,599
+1360,RIGS Mechanized Combat League VR - PS4,Pre Owned,PS4,Games,1,500,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,500,499
+1363,Kingdom Hearts HD 2.8 Final Chapter Prologue - PS4,Pre Owned,PS4,Games,2,500,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,500,599
+1380,Animal Crossing: New Horizons - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,2400,0,1,0,0,0,0,0,0,0,0,0,"2,400",0,0,0,0,0,0,0,0,"3,399"
+1382,Battleborn - PS4,Pre Owned,PS4,Games,1,50,1,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,299
+1385,Train Sim World 2 Collectors Edition - PS4,Pre Owned,PS4,Games,1,1800,0,1,0,0,0,0,0,0,0,0,0,"1,800",0,0,0,0,0,0,0,0,"2,799"
+1390,PGA Tour 2K21 - PS4,Pre Owned,PS4,Games,1,1300,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,300","1,499"
+1396,Olympic Games Tokyo 2020 The Official Video Game - PS4,Pre Owned,PS4,Games,1,800,0,0,0,1,0,0,0,0,0,0,0,0,0,800,0,0,0,0,0,0,"1,799"
+1400,Madden NFL 20 - PS4,Pre Owned,PS4,Games,1,800,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,800,799
+1413,The Walking Dead The Telltale Series A New Frontier - PS4,Pre Owned,PS4,Games,1,400,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,400,0,0,0,899
+1425,Just Dance 2018 - PS4,Pre Owned,PS4,Games,1,600,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,599
+1440,Alien Isolation - PS4,Pre Owned,PS4,Games,1,500,0,0,1,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,999
+1479,Returnal - PS5,Pre Owned,PS5,Games,2,700,0,1,1,0,0,0,0,0,0,0,0,700,700,0,0,0,0,0,0,0,"1,199"
+1491,F1 2021 - PS4,Pre Owned,PS4,Games,1,1300,0,0,1,0,0,0,0,0,0,0,0,0,"1,300",0,0,0,0,0,0,0,"1,699"
+1493,Marvel's Avengers - PS5,Pre Owned,PS5,Games,1,900,1,0,0,0,0,0,0,0,0,0,900,0,0,0,0,0,0,0,0,0,"1,499"
+1496,Back 4 Blood - PS4,Pre Owned,PS4,Games,3,1400,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,"1,400","1,400","1,099"
+1506,MotoGP 21 - PS4,Pre Owned,PS4,Games,1,1000,0,1,0,0,0,0,0,0,0,0,0,"1,000",0,0,0,0,0,0,0,0,"2,099"
+1507,MotoGP 21 - PS5,Pre Owned,PS5,Games,1,1600,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,600",0,0,0,"2,199"
+1516,Battlefield 2042 - PS5,Pre Owned,PS5,Games,2,1100,2,0,0,0,0,0,0,0,0,0,"1,100",0,0,0,0,0,0,0,0,0,"1,699"
+1517,Battlefield 2042 - PS4,Pre Owned,PS4,Games,11,777.27,4,5,2,0,0,0,0,0,0,0,750,790,800,0,0,0,0,0,0,0,"1,099"
+1530,Hidden Agenda - PS4,Pre Owned,PS4,Games,1,200,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200,0,0,0,699
+1531,Xbox Series Controller Electric Volt - Xbox Series X,Pre Owned,Xbox Series X,Accessories,3,3333.33,0,1,0,0,1,0,1,0,0,0,0,"3,000",0,0,"3,500",0,"3,500",0,0,0,"4,399"
+1532,Xbox Series Controller Daystrike Camo - Xbox Series X,Pre Owned,Xbox Series X,Accessories,2,3700,0,1,0,1,0,0,0,0,0,0,0,"3,700",0,"3,700",0,0,0,0,0,0,"4,999"
+1537,Nacon Wired Compact Controller Blue - PS4,New,PS4,Accessories,1,2905,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,905","2,999"
+1544,Ghost Of Tsushima Director's Cut - PS5,Pre Owned,PS5,Games,1,1300,1,0,0,0,0,0,0,0,0,0,"1,300",0,0,0,0,0,0,0,0,0,"2,199"
+1548,FIFA 22 - PS4,Pre Owned,PS4,Games,5,1100,0,3,2,0,0,0,0,0,0,0,0,"1,100","1,100",0,0,0,0,0,0,0,"1,899"
+1551,FIFA 22 - Xbox Series X,New,Xbox Series X,Games,3,2419,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"2,419","1,349"
+1566,Lost Judgment - PS4,Pre Owned,PS4,Games,1,1200,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,200",0,0,0,0,0,0,"1,899"
+1580,Hot Wheels Unleashed - PS5,Pre Owned,PS5,Games,1,1600,0,0,1,0,0,0,0,0,0,0,0,0,"1,600",0,0,0,0,0,0,0,"2,299"
+1595,NHL 16 - PS4,Pre Owned,PS4,Games,1,150,1,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,499
+1600,DUALSHOCK 4 Back Button Attachment - PS4,Pre Owned,PS4,Accessories,2,1300,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"1,300","1,300",0,0,0,0,"2,499"
+1604,Biomutant - PS4,New,PS4,Games,1,3360,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"3,360","1,899"
+1604,Biomutant - PS4,Pre Owned,PS4,Games,1,1000,1,0,0,0,0,0,0,0,0,0,"1,000",0,0,0,0,0,0,0,0,0,"1,499"
+1605,Judgment - PS5,Pre Owned,PS5,Games,2,1400,1,0,0,1,0,0,0,0,0,0,"1,400",0,0,"1,400",0,0,0,0,0,0,"1,899"
+1609,Dying Light 2 Stay Human - PS4,Pre Owned,PS4,Games,2,1750,0,0,1,1,0,0,0,0,0,0,0,0,"1,600","1,900",0,0,0,0,0,0,"2,399"
+1625,Scarlet Nexus - PS4,Pre Owned,PS4,Games,4,2583.25,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,"1,900","2,811","1,499"
+1626,Horizon Forbidden West - PS4,Pre Owned,PS4,Games,1,1000,1,0,0,0,0,0,0,0,0,0,"1,000",0,0,0,0,0,0,0,0,0,"1,699"
+1627,Horizon Forbidden West - PS5,Pre Owned,PS5,Games,6,1091.67,4,1,1,0,0,0,0,0,0,0,"1,113",900,"1,200",0,0,0,0,0,0,0,"1,599"
+1629,Sony PlayStation 4 Standard 500GB Glacier White - PS4,Pre Owned,PS4,Consoles,1,10700,0,1,0,0,0,0,0,0,0,0,0,"10,700",0,0,0,0,0,0,0,0,"18,999"
+1635,Death Stranding Director's Cut - PS5,Pre Owned,PS5,Games,2,800,0,0,0,1,0,0,0,0,0,1,0,0,0,750,0,0,0,0,0,850,"1,299"
+1637,Blackguards 2 - PS4,Pre Owned,PS4,Games,1,200,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,200,499
+1641,DOOM 3: VR Edition - PS4,Pre Owned,PS4,Games,1,500,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,500,0,0,"1,299"
+1661,Far Cry 6 - Xbox One,Pre Owned,Xbox One,Games,1,900,0,0,1,0,0,0,0,0,0,0,0,0,900,0,0,0,0,0,0,0,"1,799"
+1662,Far Cry 6 - PS5,Pre Owned,PS5,Games,4,1000,4,0,0,0,0,0,0,0,0,0,"1,000",0,0,0,0,0,0,0,0,0,"1,599"
+1664,FIFA 21 - PS5,Pre Owned,PS5,Games,1,700,0,0,1,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,"1,099"
+1679,Call of Duty: Vanguard - PS5,Pre Owned,PS5,Games,1,1850,1,0,0,0,0,0,0,0,0,0,"1,850",0,0,0,0,0,0,0,0,0,"2,899"
+1699,Tom Clancy’s Rainbow Six Extraction Guardian Edition - PS4,New,PS4,Games,1,2519,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,519","2,499"
+1713,Elden Ring - PS4,Pre Owned,PS4,Games,2,2300,0,1,1,0,0,0,0,0,0,0,0,"2,400","2,200",0,0,0,0,0,0,0,"3,399"
+1717,Logitech G Driving Force Shifter G Driving Force Shifter Joystick - PS4,Pre Owned,PS4,Accessories,1,1500,1,0,0,0,0,0,0,0,0,0,"1,500",0,0,0,0,0,0,0,0,0,"3,499"
+1719,Elden Ring - PS5,Pre Owned,PS5,Games,4,2250,4,0,0,0,0,0,0,0,0,0,"2,250",0,0,0,0,0,0,0,0,0,"3,399"
+1727,Kena Bridge of Spirits - PS4,Pre Owned,PS4,Games,1,1200,0,0,1,0,0,0,0,0,0,0,0,0,"1,200",0,0,0,0,0,0,0,"1,799"
+1735,Uncharted Legacy of Thieves Collection - PS5,Pre Owned,PS5,Games,6,883.33,2,3,1,0,0,0,0,0,0,0,850,933,800,0,0,0,0,0,0,0,"1,499"
+1736,GRID Legends - PS4,New,PS4,Games,2,3359,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"3,359","2,499"
+1736,GRID Legends - PS4,Pre Owned,PS4,Games,9,1464.81,2,4,1,0,0,2,0,0,0,0,"1,500","1,358","1,500",0,0,"1,625",0,0,0,0,"2,199"
+1740,Scarlet Nexus - PS5,New,PS5,Games,1,3360,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"3,360","2,499"
+1740,Scarlet Nexus - PS5,Pre Owned,PS5,Games,1,2100,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,100","1,199"
+1742,Nintendo Switch OLED Model Red and Neon Blue - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,1,16300,0,0,1,0,0,0,0,0,0,0,0,0,"16,300",0,0,0,0,0,0,0,"23,999"
+1756,Nacon Wired Compact Controller Red - PS4,New,PS4,Accessories,1,2939,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,939","3,299"
+1759,Xbox Series Controller Aqua Shift - Xbox Series X,Pre Owned,Xbox Series X,Accessories,1,2900,1,0,0,0,0,0,0,0,0,0,"2,900",0,0,0,0,0,0,0,0,0,"4,299"
+1764,Wolfenstein Youngblood - Xbox One,Pre Owned,Xbox One,Games,1,550,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,550,399
+1765,World War Z - Xbox One,Pre Owned,Xbox One,Games,1,200,1,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,699
+1770,Ring Fit Adventure - Nintendo Switch,Pre Owned,Nintendo Switch,Accessories,1,2900,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,900",0,"4,299"
+1777,LEGO Star Wars: The Skywalker Saga - PS5,Pre Owned,PS5,Games,1,1007.14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,007",0,0,0,0,0,"1,499"
+1778,LEGO Star Wars: The Skywalker Saga - PS4,Pre Owned,PS4,Games,3,1766.67,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,"1,500",0,"1,900","1,499"
+1781,Tiny Tina's Wonderlands - PS4,Pre Owned,PS4,Games,2,1300,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"1,300",899
+1794,Moto GP 22 - PS5,Pre Owned,PS5,Games,1,1900,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,900",0,0,0,0,0,"2,399"
+1802,Ghostwire Tokyo - PS5,New,PS5,Games,2,2387.5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"2,388","1,399"
+1802,Ghostwire Tokyo - PS5,Pre Owned,PS5,Games,2,450,0,1,1,0,0,0,0,0,0,0,0,450,450,0,0,0,0,0,0,0,899
+1803,Forspoken - PS5,Pre Owned,PS5,Games,2,1675,1,1,0,0,0,0,0,0,0,0,"1,800","1,550",0,0,0,0,0,0,0,0,"2,499"
+1806,Grand Theft Auto V - PS5,New,PS5,Games,3,1721,3,0,0,0,0,0,0,0,0,0,"1,721",0,0,0,0,0,0,0,0,0,"1,999"
+1806,Grand Theft Auto V - PS5,Pre Owned,PS5,Games,7,1092.86,6,0,1,0,0,0,0,0,0,0,"1,092",0,"1,100",0,0,0,0,0,0,0,"1,799"
+1814,F1 2022 - PS4,Pre Owned,PS4,Games,4,1700,0,0,1,1,1,1,0,0,0,0,0,0,"1,800","1,600","1,600","1,800",0,0,0,0,"2,399"
+1817,F1 2022 - Xbox Series X,Pre Owned,Xbox Series X,Games,2,1475,0,0,0,0,1,0,0,0,0,1,0,0,0,0,"1,550",0,0,0,0,"1,400","2,499"
+1818,Saints Row - PS4,Pre Owned,PS4,Games,2,1325,0,1,0,1,0,0,0,0,0,0,0,"1,450",0,"1,200",0,0,0,0,0,0,"2,099"
+1819,Saints Row - PS5,Pre Owned,PS5,Games,5,1080,1,0,3,1,0,0,0,0,0,0,"1,000",0,"1,133","1,000",0,0,0,0,0,0,"1,599"
+1835,Mario Party Superstars - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,2300,1,0,0,0,0,0,0,0,0,0,"2,300",0,0,0,0,0,0,0,0,0,"3,599"
+1836,Monster Hunter Rise - Nintendo Switch,Pre Owned,Nintendo Switch,Games,5,2780,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,"1,900",0,"3,000","2,199"
+1839,Sony PlayStation 4 Standard 500GB (Discounted) Jet Black - PS4,Pre Owned,PS4,Consoles,2,7800,0,1,0,1,0,0,0,0,0,0,0,"7,600",0,"8,000",0,0,0,0,0,0,"15,999"
+1895,Sony PlayStation 4 Pro 1 TB (Discounted) Black - PS4,Pre Owned,PS4,Consoles,4,13875,1,1,0,0,0,0,2,0,0,0,"13,000","14,500",0,0,0,0,"14,000",0,0,0,"24,499"
+1904,Sony PlayStation 4 Pro 1 TB (Body Damage) Black - PS4,Pre Owned,PS4,Consoles,1,13000,0,0,0,1,0,0,0,0,0,0,0,0,0,"13,000",0,0,0,0,0,0,"24,499"
+1917,Microsoft Xbox One 1TB (Discounted) Black - Xbox One,Pre Owned,Xbox One,Consoles,1,7000,0,0,0,1,0,0,0,0,0,0,0,0,0,"7,000",0,0,0,0,0,0,"11,999"
+1933,Microsoft Xbox One S 1TB (Discounted) White - Xbox One,Pre Owned,Xbox One,Consoles,1,6500,0,1,0,0,0,0,0,0,0,0,0,"6,500",0,0,0,0,0,0,0,0,"13,999"
+1955,Gotham Knights - PS5,Pre Owned,PS5,Games,8,1075,2,4,2,0,0,0,0,0,0,0,"1,200","1,050","1,000",0,0,0,0,0,0,0,"1,699"
+1958,Gotham Knights - Xbox Series X,Pre Owned,Xbox Series X,Games,1,1400,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,400",0,0,0,0,"2,199"
+1974,The Last of Us Part I - PS5,Pre Owned,PS5,Games,4,1900,2,2,0,0,0,0,0,0,0,0,"1,950","1,850",0,0,0,0,0,0,0,0,"2,999"
+2364,MSI RTX 3060 Ti 8GB Ventus 2X - PC Components,Pre Owned,PC Components,PCComponents,4,16800,3,0,0,1,0,0,0,0,0,0,"16,800",0,0,"16,800",0,0,0,0,0,0,"24,699"
+2588,MSI RTX 3080 10GB Ventus 3X - PC Components,Pre Owned,PC Components,PCComponents,3,31633.33,0,0,1,0,2,0,0,0,0,0,0,0,"31,600",0,"31,650",0,0,0,0,0,"45,399"
+2603,COLORFUL RTX 3080 10GB Ultra - PC Components,Pre Owned,PC Components,PCComponents,1,29400,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"29,400",0,0,0,"42,199"
+2693,Ryzen 3 3100 - PC Components,Pre Owned,PC Components,PCComponents,1,3200,1,0,0,0,0,0,0,0,0,0,"3,200",0,0,0,0,0,0,0,0,0,"5,299"
+2827,God of War Ragnarök - PS5,Pre Owned,PS5,Games,18,2133.33,13,5,0,0,0,0,0,0,0,0,"2,115","2,180",0,0,0,0,0,0,0,0,"3,099"
+2828,God of War Ragnarök - PS4,Pre Owned,PS4,Games,14,1867.86,4,8,2,0,0,0,0,0,0,0,"2,025","1,813","1,775",0,0,0,0,0,0,0,"2,699"
+2947,FIFA 23 - PS5,Pre Owned,PS5,Games,4,1950,3,1,0,0,0,0,0,0,0,0,"2,000","1,800",0,0,0,0,0,0,0,0,"2,799"
+2948,FIFA 23 - Xbox Series X,Pre Owned,Xbox Series X,Games,3,1600,0,0,0,1,1,1,0,0,0,0,0,0,0,"1,600","1,600","1,600",0,0,0,0,"2,299"
+2979,ASUS TUF - VG27AQ - 27 inch WQHD 165Hz - PC Components,Pre Owned,PC Components,PCComponents,1,14800,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"14,800",0,0,0,0,0,"20,899"
+3078,LG ULTRAGEAR - 24GL650F - 24 inch FHD 144Hz - PC Components,Pre Owned,PC Components,PCComponents,1,6200,1,0,0,0,0,0,0,0,0,0,"6,200",0,0,0,0,0,0,0,0,0,"12,199"
+3093,LG - 27UL650 - 27 inch UHD 60Hz - PC Components,Pre Owned,PC Components,PCComponents,1,14400,0,0,1,0,0,0,0,0,0,0,0,0,"14,400",0,0,0,0,0,0,0,"20,399"
+3097,FIFA 23   Legacy Edition - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1600,1,0,0,0,0,0,0,0,0,0,"1,600",0,0,0,0,0,0,0,0,0,"2,499"
+3114,KINGSTON Value 1x16GB DDR5 4800MHz - KVR48U40BS8-16 - PC Components,Pre Owned,PC Components,PCComponents,8,3550,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,"2,900","3,767","4,799"
+3186,GIGABYTE AORUS 1TB Gen4 M.2 NVMe - GP-AG70S1TB - PC Components,Pre Owned,PC Components,PCComponents,1,7500,0,0,0,1,0,0,0,0,0,0,0,0,0,"7,500",0,0,0,0,0,0,"11,099"
+3195,POWERCOLOR RX 5700XT 8GB Red Dragon OC - PC Components,Pre Owned,PC Components,PCComponents,1,12400,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"12,400",0,0,0,0,0,"16,099"
+3209,SAMSUNG 970 EVO Plus 250GB M.2 NVMe - MZ-V7S250BW - PC Components,Pre Owned,PC Components,PCComponents,1,2200,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,200","2,399"
+3213,SAMSUNG 980 250GB M.2 NVMe - MZ-V8V250BW - PC Components,Pre Owned,PC Components,PCComponents,1,1200,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,200",0,0,"2,299"
+3356,NHL 18 - PS4,Pre Owned,PS4,Games,1,300,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,300,0,0,0,699
+3376,Hogwarts Legacy - PS4,Pre Owned,PS4,Games,1,2650,1,0,0,0,0,0,0,0,0,0,"2,650",0,0,0,0,0,0,0,0,0,"3,599"
+3377,Hogwarts Legacy - Xbox One,Pre Owned,Xbox One,Games,1,2400,0,1,0,0,0,0,0,0,0,0,0,"2,400",0,0,0,0,0,0,0,0,"3,499"
+3378,Hogwarts Legacy - PS5,Pre Owned,PS5,Games,4,2600,4,0,0,0,0,0,0,0,0,0,"2,600",0,0,0,0,0,0,0,0,0,"3,649"
+3381,Dead Island 2 Day One Edition - PS5,Pre Owned,PS5,Games,4,1850,1,1,2,0,0,0,0,0,0,0,"1,700","1,700","2,000",0,0,0,0,0,0,0,"3,099"
+3422,Need for Speed Unbound - Xbox Series X,Pre Owned,Xbox Series X,Games,3,1900,1,0,1,0,0,1,0,0,0,0,"1,700",0,"1,900",0,0,"2,100",0,0,0,0,"2,699"
+3423,Call of Duty: Modern Warfare 2: Cross-Gen Bundle - PS4,Pre Owned,PS4,Games,4,3200,1,1,0,2,0,0,0,0,0,0,"3,100","3,100",0,"3,300",0,0,0,0,0,0,"4,799"
+3424,Call of Duty: Modern Warfare 2 - PS5,Pre Owned,PS5,Games,10,3250,5,2,3,0,0,0,0,0,0,0,"3,340","3,100","3,200",0,0,0,0,0,0,0,"4,699"
+3429,GALAX RTX 2060 6GB 1-Click OC - PC Components,Pre Owned,PC Components,PCComponents,1,10500,0,1,0,0,0,0,0,0,0,0,0,"10,500",0,0,0,0,0,0,0,0,"14,499"
+3533,Gaming PC - Ryzen 3 3300x + Asus Dual 6500xt + B550M - PC Components,Pre Owned,PC Components,PCComponents,1,29700,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"29,700","43,999"
+3540,STAR WARS Jedi: Survivor - PS5,Pre Owned,PS5,Games,11,2463.64,5,6,0,0,0,0,0,0,0,0,"2,510","2,425",0,0,0,0,0,0,0,0,"3,599"
+3541,STAR WARS Jedi: Survivor - Xbox Series X,Pre Owned,Xbox Series X,Games,1,2700,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,700",0,0,0,0,"2,699"
+3726,Resident Evil 4 Remake - PS4,Pre Owned,PS4,Games,1,2400,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2,400",0,0,0,0,0,"3,499"
+3727,Resident Evil 4 Remake - PS5,Pre Owned,PS5,Games,4,2525,0,1,3,0,0,0,0,0,0,0,0,"2,600","2,500",0,0,0,0,0,0,0,"3,699"
+3747,Final Fantasy XVI - PS5,Pre Owned,PS5,Games,9,2544.44,2,4,3,0,0,0,0,0,0,0,"2,300","2,550","2,700",0,0,0,0,0,0,0,"3,799"
+3751,ASUS RTX 3080 TUF 10GB Gaming - PC Components,Pre Owned,PC Components,PCComponents,1,31500,0,0,1,0,0,0,0,0,0,0,0,0,"31,500",0,0,0,0,0,0,0,"45,299"
+3759,LG ULTRAGEAR -  27GN750-B - 27 Inch FHD 240 Hz - PC Components,Pre Owned,PC Components,PCComponents,1,13300,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"13,300",0,0,"19,699"
+3760,Nacon Wired Compact Controller Illuminated Green - PS4,Pre Owned,PS4,Accessories,1,1200,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,200",0,0,0,0,0,"2,199"
+3762,Steam Deck 256GB - PC Components,Pre Owned,PC Components,Consoles,1,36000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"36,000",0,0,0,0,0,"41,999"
+3763,Steam Deck 512GB - PC Components,Pre Owned,PC Components,Consoles,3,41700,0,0,0,1,1,1,0,0,0,0,0,0,0,"35,000","45,000","45,100",0,0,0,0,"43,999"
+3854,Samsung 860 EVO 250GB SATA M.2 - MZ-N6E250 - PC Components,Pre Owned,PC Components,PCComponents,1,1100,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,100",0,"3,499"
+3887,Intel Core i7 13700 Processor - PC Components,Pre Owned,PC Components,PCComponents,1,16650,0,0,1,0,0,0,0,0,0,0,0,0,"16,650",0,0,0,0,0,0,0,"27,399"
+3889,Intel Core i7-13700K Processor - PC Components,Pre Owned,PC Components,PCComponents,1,17050,0,0,1,0,0,0,0,0,0,0,0,0,"17,050",0,0,0,0,0,0,0,"28,299"
+3926,The Elder Scrolls Online Gold Edition - Xbox One,Pre Owned,Xbox One,Games,1,150,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,150,0,0,0,499
+3935,GIGABYTE RTX 3080 10Gb GAMING OC - PC Components,Pre Owned,PC Components,PCComponents,1,29200,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"29,200",0,0,"45,199"
+3948,KINGSTON FURY 1x8GB DDR4 3200MHz  RGB - KF432C16BBA/8 - PC Components,Pre Owned,PC Components,PCComponents,2,1233.33,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"1,233",0,0,0,"1,999"
+3962,F1 23 - PS4,Pre Owned,PS4,Games,1,2500,1,0,0,0,0,0,0,0,0,0,"2,500",0,0,0,0,0,0,0,0,0,"3,699"
+3964,MotoGP 23 - PS4,New,PS4,Games,1,3279,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"3,279",0,0,0,"3,599"
+3975,Immortals of Aveum - PS5,New,PS5,Games,1,3689,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"3,689",0,0,0,"4,299"
+3978,Nacon Revolution Unlimited Pro Controller - PS4,Pre Owned,PS4,Accessories,2,3750,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"3,500","4,000",0,0,0,0,"5,399"
+3984,Ride 5 - PS5,New,PS5,Games,3,3935,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"3,935",0,0,0,0,"4,599"
+3989,Fire Emblem Three Houses (No Box and Art Cover) - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1600,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,600",0,0,0,"3,199"
+3990,The Witcher 3 Wild Hunt Complete Edition (No Box and Art Cover) - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1800,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,800",0,0,0,0,"2,999"
+3991,Assassins Creed The Rebel Collection (No Box and Art Cover) - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,750,0,0,1,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,"1,799"
+3992,Super Smash Bros Ultimate (No Box and Art Cover) - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1900,0,0,1,0,0,0,0,0,0,0,0,0,"1,900",0,0,0,0,0,0,0,"3,199"
+3994,NBA 2K20 (No Box and Art Cover) - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,400,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,400,0,0,0,0,"1,199"
+3997,Astral Chain (No Box and Art Cover) - Nintendo Switch,Pre Owned,Nintendo Switch,Games,1,1900,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"1,900",0,0,0,"3,399"
+4024,Nintendo Switch 32GB V1 (HAC-001) Neon Green & Pink Joy-Cons - Nintendo Switch,Pre Owned,Nintendo Switch,Consoles,1,14500,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"14,500",0,0,0,0,0,"17,999"
+4100,Sniper Ghost Warrior Contracts 2 - PS4,Pre Owned,PS4,Games,1,1600,0,0,1,0,0,0,0,0,0,0,0,0,"1,600",0,0,0,0,0,0,0,"2,399"
+4101,ASUS RTX 3050 8GB Dual OC - PC Components,Pre Owned,PC Components,PCComponents,1,11300,1,0,0,0,0,0,0,0,0,0,"11,300",0,0,0,0,0,0,0,0,0,"16,599"
+4102,Mortal Kombat 11 - PS5,Pre Owned,PS5,Games,1,850,0,1,0,0,0,0,0,0,0,0,0,850,0,0,0,0,0,0,0,0,"1,499"
